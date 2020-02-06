@@ -2,7 +2,7 @@ $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'directors_database'
 
 
- #pp directors_database[0][:movies][0][:worldwide_gross]
+# pp directors_database[0][:movies][0][:worldwide_gross]
 # directors_database[0][:name] will give the name 
 # directors_database[0][:movies][0][:worldwide_gross] will give the worldwide_gross value 
 
